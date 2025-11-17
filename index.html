@@ -1960,7 +1960,7 @@
             }
             
             try {
-                const progressRef = ref(db, `ntumedsa-quiz-histology/${window.currentUserUid}/gameProgress/histology`);
+                const progressRef = ref(db, `ntumedsa-quiz-histology-final/${window.currentUserUid}/gameProgress/histology`);
                 await set(progressRef, {
                     ...progressData,
                     lastUpdated: Date.now(),
@@ -1981,7 +1981,7 @@
             }
             
             try {
-                const progressRef = ref(db, `ntumedsa-quiz-histology/${window.currentUserUid}/gameProgress/histology`);
+                const progressRef = ref(db, `ntumedsa-quiz-histology-final/${window.currentUserUid}/gameProgress/histology`);
                 const snapshot = await get(progressRef);
                 
                 if (snapshot.exists()) {
@@ -2005,7 +2005,7 @@
             }
             
             try {
-                const progressRef = ref(db, `ntumedsa-quiz-histology/${window.currentUserUid}/gameProgress/histology`);
+                const progressRef = ref(db, `ntumedsa-quiz-histology-final/${window.currentUserUid}/gameProgress/histology`);
                 await set(progressRef, null);
                 console.log("[removeProgressFromFirebase] Progress removed successfully from Firebase");
                 return true;
@@ -2538,7 +2538,7 @@ if (googleSignInBtn) {
                 return score; 
             }
 
-            const scoreRef = ref(db, `ntumedsa-quiz-histology/${uid}`);
+            const scoreRef = ref(db, `ntumedsa-quiz-histology-final/${uid}`);
             try {
                 const snap = await get(scoreRef);
                 const prev = snap.val();
@@ -2561,7 +2561,7 @@ if (googleSignInBtn) {
             listEl.innerHTML = '<li>載入中…</li>';
 
             try {
-                const snap = await get(ref(db, 'ntumedsa-quiz-histology'));
+                const snap = await get(ref(db, 'ntumedsa-quiz-histology-final'));
                 const dataObj = snap.val() || {};
                 const entries = Object.entries(dataObj).map(([uid, item]) => ({ uid, ...item }));
                 const sorted = entries.sort((a, b) => b.score - a.score);
@@ -4056,7 +4056,7 @@ if (googleSignInBtn) {
                         await updateProfile(user, { displayName: trimmed });
                         try {
                             const uid = user.uid;
-                            const userNodeRef = ref(db, `ntumedsa-quiz-histology/${uid}`);
+                            const userNodeRef = ref(db, `ntumedsa-quiz-histology-final/${uid}`);
                             await update(userNodeRef, { name: trimmed });
                         } catch (e) {
                             console.warn('同步更新排行榜名稱失敗：', e);
@@ -4105,7 +4105,7 @@ if (googleSignInBtn) {
         async function loadStarredFromFirebase() {
             if (!window.currentUserUid) { starredCache = {}; return starredCache; }
             try {
-                const starredRef = ref(db, `ntumedsa-quiz-histology/${window.currentUserUid}/starred/histology`);
+                const starredRef = ref(db, `ntumedsa-quiz-histology-final/${window.currentUserUid}/starred/histology`);
                 const snapshot = await get(starredRef);
                 if (snapshot.exists()) {
                     const val = snapshot.val();
@@ -4122,7 +4122,7 @@ if (googleSignInBtn) {
         async function saveStarredToFirebase(map) {
             if (!window.currentUserUid) return false;
             try {
-                const starredRef = ref(db, `ntumedsa-quiz-histology/${window.currentUserUid}/starred/histology`);
+                const starredRef = ref(db, `ntumedsa-quiz-histology-final/${window.currentUserUid}/starred/histology`);
                 await set(starredRef, map || {});
                 starredCache = map || {};
                 return true;
