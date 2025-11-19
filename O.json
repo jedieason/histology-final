@@ -1,5 +1,24 @@
 [
   {
+    "num": "206233",
+    "path": "O/206233.png",
+    "answer": [
+      "PST"
+    ],
+    "explanation": "細胞質染色較 eosinophilic，管腔髒髒的為 brush border，細胞\n核偏向底部。",
+    "description": "寫出箭頭所指虛線內整個構造名稱"
+  },
+  {
+    "num": "209208",
+    "path": "O/209208.png",
+    "answer": [
+      "appositional stage （bell stage）",
+      "epithelial root sheath"
+    ],
+    "explanation": "為發育中牙齒，因為看起來為鐘狀，故為bell stage （如果有看出分層寫appositional stage也可）。牙根處有IEE 和 OEE形成的雙層構造叫（Hertwig’s） epithelial root sheath。\n\n【出處】09共筆 Vol.13 P.35-37",
+    "description": "以下組織處於哪個階段？框起來的組織名稱？"
+  },
+  {
     "num": "204131",
     "path": "O/204131.png",
     "answer": [
@@ -266,24 +285,6 @@
     "description": "寫出箭頭所指排列整齊之細胞名稱"
   },
   {
-    "num": "206202",
-    "path": "O/206202.png",
-    "answer": [
-      "A: sublingual \\ngland\\nB: submandibular \\ngland"
-    ],
-    "explanation": "A 是以 mucous acini 為主的 mixed gland。有極為淡染的\nmucous acini，核扁平且被擠到 basal side。\nB 可看到白色的 mucous acini 和較深染的 serous acini 交錯的\n腺體。且以 serous acini 為主。另外還可看到 mixed gland 中\nserous cell 被擠到細胞外圍所形成的半月形 serous demilune。",
-    "description": "寫出 A 及 B 所指之器官名稱（Be specific）"
-  },
-  {
-    "num": "206203",
-    "path": "O/206203.png",
-    "answer": [
-      "A: Parotid gland B: Pancreas"
-    ],
-    "explanation": "A 可看到深染的 serous acini，沒有任何淡染的 mucous cell。\n且 septum 內有許多 adipocyte 滲入 lobule 形成 fat infiltration。\nB 可見深染淡染區，分別對應 exocrine gland 和 endocrine \ngland（islet of Langerhans）。",
-    "description": "寫出 A 及 B 所指之器官名稱（Be specific）"
-  },
-  {
     "num": "206208",
     "path": "O/206208.png",
     "answer": [
@@ -491,24 +492,6 @@
     ],
     "explanation": "呈圓拱狀，上皮為stratified squamous epithelium。CNT完整進入papilla中，papilla兩側可見taste buds。底下有 serous glands（紫色較深）。 \n【出處】共筆Vol.14 P.51 ",
     "description": "框起處為何種構造？分布於人體何處？"
-  },
-  {
-    "num": "206119",
-    "path": "O/206119.png",
-    "answer": [
-      "Parotid gland"
-    ],
-    "explanation": "全都是serous acini，空白的是adipocyte。\n【出處】共筆Vol.14 P.14",
-    "description": "視野下為何種器官？"
-  },
-  {
-    "num": "206122",
-    "path": "O/206122.png",
-    "answer": [
-      "Sublingual gland"
-    ],
-    "explanation": "Red pulp 的實心部份，由reticular connective tissue 架構。 \n【出處】共筆Vol.12 P.3",
-    "description": "視野下為何種器官？"
   },
   {
     "num": "206128",

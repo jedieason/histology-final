@@ -1,5 +1,116 @@
 [
   {
+    "num": "208112",
+    "path": "S/208112.png",
+    "answer": [
+      "(A)Duodenum",
+      "(B)Stomach"
+    ],
+    "explanation": "Stomach Submucosa無Brunner’s gland，Muscularis mucosae完整。而Duodenum Submucosa有Brunner’s gland，Muscularis mucosae有不連續。\n【出處】共筆Vol.15 P.15",
+    "description": "整個範圍是哪兩種器官（A = ?，B = ? ）交界處之切片？"
+  },
+  {
+    "num": "203103",
+    "path": "S/203103.png",
+    "answer": [
+      "Intercalated duct"
+    ],
+    "explanation": "圖片中有許多duct與深染的serous acinar，應為parotid gland。而箭頭所指管道的管腔不大，細胞邊界不明顯且高度較低，由low cuboid細胞圍成，應為intercalated duct。\n【出處】07共筆Vol.15 P.19,51",
+    "description": "箭頭所指為何？"
+  },
+  {
+    "num": "203119",
+    "path": "S/203119.png",
+    "answer": [
+      "surface mucous cell"
+    ],
+    "explanation": "圖中為消化道的細胞，其朝向lumen上半部呈空泡狀，且分佈密集，因此為stomach的surface mucous cell。（如果是goblet cell，不該分佈這麼緊密，且應為酒杯狀）\n【出處】07共筆Vol.15 P.62",
+    "description": "箭頭所指的細胞為何？"
+  },
+  {
+    "num": "203120",
+    "path": "S/203120.png",
+    "answer": [
+      "(1) Esophagus",
+      "(2) submucosa gland(esophageal gland proper)"
+    ],
+    "explanation": "Esophagus和duodenum是消化道唯二在submucosa有線體的部分，而圖中上皮為stratified squamous epithelium且無villi構造，可推論為esophagus。\n箭頭所指即為submucosa gland。\n【出處】07共筆Vol.15 P.56",
+    "description": "（1）寫出整個範圍的器官名稱 （2）箭頭所指的為何？"
+  },
+  {
+    "num": "203121",
+    "path": "S/203121.png",
+    "answer": [
+      "Submandibular gland"
+    ],
+    "explanation": "圖中可見許多管狀構造的腺體，有白色的mucous acini和較深染的serous acini交錯，按比例應為Submandibular gland。\n（但這片是因為有點退染所以導致不能單用顏色去判斷，所以還是要綜合其他特性來得出是哪一種腺體）\n【出處】07共筆Vol.15 P.54",
+    "description": "判斷此為何種腺體？"
+  },
+  {
+    "num": "206111",
+    "path": "S/206111.png",
+    "answer": [
+      "Gastroduodenal junction"
+    ],
+    "explanation": "左邊duodenal submucosa 含有 Brunner’s gland，且有villi，所以判斷為十二指腸。右邊pylorus下方有增厚的muscularis externa，構成pyloric sphincter。\n【出處】07共筆Vol.16 P.48 ",
+    "description": "視野下為何種junction？"
+  },
+  {
+    "num": "206112",
+    "path": "S/206112.png",
+    "answer": [
+      "Myoepithelial cell"
+    ],
+    "explanation": "箭頭所指深染的部分為dense body，細胞扁平。所以應該是在acinar cell周圍的myoepithelial cell。 \n【出處】共筆Vol.14 P.8",
+    "description": "圈起處為何種細胞？"
+  },
+  {
+    "num": "207208",
+    "path": "S/207208.png",
+    "answer": [
+      "A: Sublingual gland",
+      "B: Submandibular gland"
+    ],
+    "explanation": "A是以mucous acini為主的mixed gland。有極為淡染的mucous acini，核扁平且被擠到basal side。B可看到白色的mucous acini和較深染的serous acini交錯的腺體。且以serous acini為主。另外還可看到mixed gland中serous cell被擠到細胞外圍所形成的半月形serous demilune。\n【出處】共筆Vol.14 P.47-50",
+    "description": "寫出A和B之器官名稱（Be specific）"
+  },
+  {
+    "num": "205223",
+    "path": "S/205223.png",
+    "answer": [
+      "A"
+    ],
+    "explanation": "看不到白色的mucus acini就是了，不要把adipocyte認錯了。 ",
+    "description": "下列何者是parotid gland？"
+  },
+  {
+    "num": "206202",
+    "path": "S/206202.png",
+    "answer": [
+      "A: sublingual \\ngland\\nB: submandibular \\ngland"
+    ],
+    "explanation": "A 是以 mucous acini 為主的 mixed gland。有極為淡染的\nmucous acini，核扁平且被擠到 basal side。\nB 可看到白色的 mucous acini 和較深染的 serous acini 交錯的\n腺體。且以 serous acini 為主。另外還可看到 mixed gland 中\nserous cell 被擠到細胞外圍所形成的半月形 serous demilune。",
+    "description": "寫出 A 及 B 所指之器官名稱（Be specific）"
+  },
+  {
+    "num": "206119",
+    "path": "S/206119.png",
+    "answer": [
+      "Parotid gland"
+    ],
+    "explanation": "全都是serous acini，空白的是adipocyte。\n【出處】共筆Vol.14 P.14",
+    "description": "視野下為何種器官？"
+  },
+  {
+    "num": "206122",
+    "path": "S/206122.png",
+    "answer": [
+      "Sublingual gland"
+    ],
+    "explanation": "Red pulp 的實心部份，由reticular connective tissue 架構。 \n【出處】共筆Vol.12 P.3",
+    "description": "視野下為何種器官？"
+  },
+  {
     "num": "204127",
     "path": "S/204127.png",
     "answer": [
@@ -71,16 +182,6 @@
     ],
     "explanation": "上皮為 non-keratinized stratified squamous epithelium，且在 submucosa 這層可觀察到發達的 esophageal gland proper。",
     "description": "視野中為何種器官？"
-  },
-  {
-    "num": "11112",
-    "path": "S/11112.png",
-    "answer": [
-      "A: Goblet cell",
-      "B: Ciliated columnar cell"
-    ],
-    "explanation": "A: 上窄下寬，似高腳杯，細胞核位於細胞底部，細胞上方充滿很多 mucinogen granules。\nB: 長方形細胞，其表面有很多條狀構造。",
-    "description": "左圖和右圖分別為何種細胞？（全對才給分）"
   },
   {
     "num": "11116",
@@ -211,16 +312,6 @@
     "description": "寫出中間範圍的器官名稱"
   },
   {
-    "num": "206211",
-    "path": "S/206211.png",
-    "answer": [
-      "Cilia",
-      "SEM"
-    ],
-    "explanation": "纖毛在 SEM 下呈鬚狀，圖中標示 G 的地方是無鬚狀構造的\n凹陷處，為 goblet cell。",
-    "description": "紅色箭頭之構造為何？用何種顯微鏡觀察？（Be specific）"
-  },
-  {
     "num": "206213",
     "path": "S/206213.png",
     "answer": [
@@ -228,25 +319,6 @@
     ],
     "explanation": "A 處構造由 low cuboid 細胞圍成，管腔不大，為 intercalated \nduct。\nB 處的上皮細胞比 intercalated duct 高，lumen 也較大。基底\n部有紅色條紋為 basal striation。",
     "description": "寫出 A、B 的構造名稱"
-  },
-  {
-    "num": "206215",
-    "path": "S/206215.png",
-    "answer": [
-      "Anus",
-      "Rectum"
-    ],
-    "explanation": "視野下可見由 simple columnar epithelium with many goblet \ncells 過渡到 stratified squamous epithelium，可推知為 rectal_x0002_anal junction",
-    "description": "整個範圍是哪兩種器官（A = ? ； B = ?）的交界？"
-  },
-  {
-    "num": "206217",
-    "path": "S/206217.png",
-    "answer": [
-      "Goblet cell"
-    ],
-    "explanation": "呈空泡狀，細胞上寬下窄，細胞核被擠到細胞基部。",
-    "description": "寫出箭頭所指細胞質有空白的細胞名稱"
   },
   {
     "num": "206221",
@@ -274,16 +346,6 @@
     ],
     "explanation": "胃的Surface mucous cell組成simple columnar epithelium，可分泌mucigen granules（不溶於水，形成霧狀保護層）；surface mucous cell 所在的凹陷稱為 gastric pit",
     "description": "箭頭所指的細胞名稱為何?"
-  },
-  {
-    "num": "210205",
-    "path": "S/210205.png",
-    "answer": [
-      "藍：Epithelial cell",
-      "紅：Goblet cell"
-    ],
-    "explanation": "從圖僅能判斷出是腸道絨毛。絨毛表面由 H&E stain 下相對深染的 Epithelial cell和淡染的 Goblet cell 組成。",
-    "description": "箭頭指的細胞名稱（紅&藍箭頭）"
   },
   {
     "num": "210213",
@@ -358,15 +420,6 @@
     ],
     "explanation": "很淺的pit，gland呈柱狀整齊排列 。",
     "description": "寫出視野下組織部位名稱（Be specific）"
-  },
-  {
-    "num": "211204",
-    "path": "S/211204.png",
-    "answer": [
-      "Paneth cell/ Intestinal gland"
-    ],
-    "explanation": "此紅色為重要的特殊染色，被染色的部分是Paneth cell位於小腸intestinal gland 的最底部，與抗菌有關 。",
-    "description": "請寫出此細胞的名稱？以及所在位置？"
   },
   {
     "num": "211213",

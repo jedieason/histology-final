@@ -1,12 +1,21 @@
 [
   {
-    "num": "204113",
-    "path": "L/204113.png",
+    "num": "208204",
+    "path": "L/208204.png",
     "answer": [
-      "Lymphatic vessel of portal region"
+      "Hassall’s corpuscle"
     ],
-    "explanation": "可先由周圍肝細胞單層排列方式判斷出此為肝臟切片。且因為管道的分佈知道是portal triad。portal triad中較不規則的空腔，且由不完整的endothelial cell包圍，即是lymphatic vessel。",
-    "description": "圖片中為什麼管道？"
+    "explanation": "紅色同心圓狀，存在medulla，是辨識thymus的重要特徵，由ERC type 6組成。\n【出處】08共筆Vol.11 P.30；09共筆Vol.11 P.33",
+    "description": "箭頭所指構造名稱？"
+  },
+  {
+    "num": "209111",
+    "path": "L/209111.png",
+    "answer": [
+      "Epithelial reticular cell type 6"
+    ],
+    "explanation": "Hassall’s corpuscle紅色同心圓狀，存在medulla，是辨識thymus的重要特徵，由ERC type 6組成。\n【出處】共筆Vol.11 P.35",
+    "description": "請寫出指針所指「構造」為「何種細胞」組成"
   },
   {
     "num": "204114",
@@ -320,16 +329,6 @@
     "description": "哪一區含有較多T cell？\n（註：圖A 指PALS，圖B不確定）"
   },
   {
-    "num": "209208",
-    "path": "L/209208.png",
-    "answer": [
-      "appositional stage （bell stage）",
-      "epithelial root sheath"
-    ],
-    "explanation": "觀察到管腔周圍細胞有向內突起的細胞核（Littoral cell），故為venous sinus，位於spleen的red pulp。\n【出處】09共筆 Vol.12 P.6",
-    "description": "以下組織處於哪個階段？框起來的組織名稱？"
-  },
-  {
     "num": "209209",
     "path": "L/209209.png",
     "answer": [
@@ -465,16 +464,6 @@
     ],
     "explanation": "應可判斷此圖為某種淋巴組織的medulla，而此管道管壁由核長橢圓/不規則形狀之細胞團團包圍，且管腔很小，是spleen的sheathed capillary的特徵，其由macrophage包圍。\n【出處】共筆Vol.12 P.6",
     "description": "箭頭所指的管腔構造？"
-  },
-  {
-    "num": "207208",
-    "path": "L/207208.png",
-    "answer": [
-      "A: Sublingual gland",
-      "B: Submandibular gland"
-    ],
-    "explanation": "A是以mucous acini為主的mixed gland。有極為淡染的mucous acini，核扁平且被擠到basal side。B可看到白色的mucous acini和較深染的serous acini交錯的腺體。且以serous acini為主。另外還可看到mixed gland中serous cell被擠到細胞外圍所形成的半月形serous demilune。\n【出處】共筆Vol.14 P.47-50",
-    "description": "寫出A和B之器官名稱（Be specific）"
   },
   {
     "num": "206201",
@@ -838,15 +827,6 @@
     "description": "箭號所指的細胞名稱？"
   },
   {
-    "num": "205223",
-    "path": "L/205223.png",
-    "answer": [
-      "A"
-    ],
-    "explanation": "看不到白色的mucus acini就是了，不要把adipocyte認錯了。 ",
-    "description": "下列何者是parotid gland？"
-  },
-  {
     "num": "205225",
     "path": "L/205225.png",
     "answer": [
@@ -1016,15 +996,6 @@
     ],
     "explanation": "Bone marrow中非adipocyte的空腔，附近有許多粉紅色或透明（無核）的紅血球。\n【出處】共筆Vol.12 P.36",
     "description": "圈起處為何種構造？"
-  },
-  {
-    "num": "206105",
-    "path": "L/206105.png",
-    "answer": [
-      "Space of Mall"
-    ],
-    "explanation": "介於 Periportal stroma 和 Limiting plate 之間的空腔。\n【出處】07共筆Vol.17 P.10 ",
-    "description": "箭頭所指為何種構造？"
   },
   {
     "num": "206109",

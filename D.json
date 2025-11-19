@@ -418,16 +418,6 @@
     "description": "黑色箭頭指的是？（非黃色虛線）"
   },
   {
-    "num": "208112",
-    "path": "D/208112.png",
-    "answer": [
-      "(A)Duodenum",
-      "(B)Stomach"
-    ],
-    "explanation": "Stomach Submucosa無Brunner’s gland，Muscularis mucosae完整。而Duodenum Submucosa有Brunner’s gland，Muscularis mucosae有不連續。\n【出處】共筆Vol.15 P.15",
-    "description": "整個範圍是哪兩種器官（A = ?，B = ? ）交界處之切片？"
-  },
-  {
     "num": "208113",
     "path": "D/208113.png",
     "answer": [
@@ -565,15 +555,6 @@
     ],
     "explanation": "細胞位在 intestinal gland 的最底部，且細胞頂端具\neosinophilic 的 granules。細胞基部為 basophilic。",
     "description": "寫出箭頭所指的細胞名稱（特殊染色）"
-  },
-  {
-    "num": "206233",
-    "path": "D/206233.png",
-    "answer": [
-      "PST"
-    ],
-    "explanation": "細胞質染色較 eosinophilic，管腔髒髒的為 brush border，細胞\n核偏向底部。",
-    "description": "寫出箭頭所指虛線內整個構造名稱"
   },
   {
     "num": "206234",
@@ -967,15 +948,6 @@
     "description": "請問框起來構造名稱（be specific）？"
   },
   {
-    "num": "203103",
-    "path": "D/203103.png",
-    "answer": [
-      "Intercalated duct"
-    ],
-    "explanation": "圖片中有許多duct與深染的serous acinar，應為parotid gland。而箭頭所指管道的管腔不大，細胞邊界不明顯且高度較低，由low cuboid細胞圍成，應為intercalated duct。\n【出處】07共筆Vol.15 P.19,51",
-    "description": "箭頭所指為何？"
-  },
-  {
     "num": "203104",
     "path": "D/203104.png",
     "answer": [
@@ -1022,31 +994,125 @@
     "description": "寫出此條構造名稱"
   },
   {
-    "num": "203119",
-    "path": "D/203119.png",
+    "num": "206106",
+    "path": "D/206106.png",
     "answer": [
-      "surface mucous cell"
+      "Large intestine",
+      "Colon"
     ],
-    "explanation": "圖中為消化道的細胞，其朝向lumen上半部呈空泡狀，且分佈密集，因此為stomach的surface mucous cell。（如果是goblet cell，不該分佈這麼緊密，且應為酒杯狀）\n【出處】07共筆Vol.15 P.62",
-    "description": "箭頭所指的細胞為何？"
+    "explanation": "Lumen平滑，表皮高度差不多，可知為大腸。\n【出處】07共筆Vol.16 P.30 ",
+    "description": "視野下為何種器官的組織切片？"
   },
   {
-    "num": "203120",
-    "path": "D/203120.png",
+    "num": "206125",
+    "path": "D/206125.png",
     "answer": [
-      "(1) Esophagus",
-      "(2) submucosa gland(esophageal gland proper)"
+      "Space of Disse"
     ],
-    "explanation": "Esophagus和duodenum是消化道唯二在submucosa有線體的部分，而圖中上皮為stratified squamous epithelium且無villi構造，可推論為esophagus。\n箭頭所指即為submucosa gland。\n【出處】07共筆Vol.15 P.56",
-    "description": "（1）寫出整個範圍的器官名稱 （2）箭頭所指的為何？"
+    "explanation": "位於sinusoid周圍與hepatocytes之間。充滿由hepatocytes 伸出的small irregular microvilli。\n【出處】07共筆Vol.17 P.19",
+    "description": "問號處為何種構造？"
   },
   {
-    "num": "203121",
-    "path": "D/203121.png",
+    "num": "206130",
+    "path": "D/206130.png",
     "answer": [
-      "Submandibular gland"
+      "Duodenum"
     ],
-    "explanation": "圖中可見許多管狀構造的腺體，有白色的mucous acini和較深染的serous acini交錯，按比例應為Submandibular gland。\n（但這片是因為有點退染所以導致不能單用顏色去判斷，所以還是要綜合其他特性來得出是哪一種腺體）\n【出處】07共筆Vol.15 P.54",
-    "description": "判斷此為何種腺體？"
+    "explanation": "Submucosa有gland，所以只剩下esophagus和duodenum兩種器官。在submucosa有Brunner’s gland但villi呈現葉片狀、較短，所以是duodenum。 \n【出處】07共筆Vol.16 P.53 ",
+    "description": "視野下為何種器官？（Be specific）"
+  },
+  {
+    "num": "206131",
+    "path": "D/206131.png",
+    "answer": [
+      "Portal vein"
+    ],
+    "explanation": "圖中為portal triad，旁邊有bile duct及hepatic artery伴行。 \n【出處】07共筆Vol.17 P.50 ",
+    "description": "虛線圈起處為何種構造？"
+  },
+  {
+    "num": "204113",
+    "path": "D/204113.png",
+    "answer": [
+      "Lymphatic vessel of portal region"
+    ],
+    "explanation": "可先由周圍肝細胞單層排列方式判斷出此為肝臟切片。且因為管道的分佈知道是portal triad。portal triad中較不規則的空腔，且由不完整的endothelial cell包圍，即是lymphatic vessel。",
+    "description": "圖片中為什麼管道？"
+  },
+  {
+    "num": "206105",
+    "path": "D/206105.png",
+    "answer": [
+      "Space of Mall"
+    ],
+    "explanation": "介於 Periportal stroma 和 Limiting plate 之間的空腔。\n【出處】07共筆Vol.17 P.10 ",
+    "description": "箭頭所指為何種構造？"
+  },
+  {
+    "num": "206203",
+    "path": "D/206203.png",
+    "answer": [
+      "A: Parotid gland B: Pancreas"
+    ],
+    "explanation": "A 可看到深染的 serous acini，沒有任何淡染的 mucous cell。\n且 septum 內有許多 adipocyte 滲入 lobule 形成 fat infiltration。\nB 可見深染淡染區，分別對應 exocrine gland 和 endocrine \ngland（islet of Langerhans）。",
+    "description": "寫出 A 及 B 所指之器官名稱（Be specific）"
+  },
+  {
+    "num": "11112",
+    "path": "D/11112.png",
+    "answer": [
+      "A: Goblet cell",
+      "B: Ciliated columnar cell"
+    ],
+    "explanation": "A: 上窄下寬，似高腳杯，細胞核位於細胞底部，細胞上方充滿很多 mucinogen granules。\nB: 長方形細胞，其表面有很多條狀構造。",
+    "description": "左圖和右圖分別為何種細胞？（全對才給分）"
+  },
+  {
+    "num": "206211",
+    "path": "D/206211.png",
+    "answer": [
+      "Cilia",
+      "SEM"
+    ],
+    "explanation": "纖毛在 SEM 下呈鬚狀，圖中標示 G 的地方是無鬚狀構造的\n凹陷處，為 goblet cell。",
+    "description": "紅色箭頭之構造為何？用何種顯微鏡觀察？（Be specific）"
+  },
+  {
+    "num": "206215",
+    "path": "D/206215.png",
+    "answer": [
+      "Anus",
+      "Rectum"
+    ],
+    "explanation": "視野下可見由 simple columnar epithelium with many goblet \ncells 過渡到 stratified squamous epithelium，可推知為 rectal_x0002_anal junction",
+    "description": "整個範圍是哪兩種器官（A = ? ； B = ?）的交界？"
+  },
+  {
+    "num": "206217",
+    "path": "D/206217.png",
+    "answer": [
+      "Goblet cell"
+    ],
+    "explanation": "呈空泡狀，細胞上寬下窄，細胞核被擠到細胞基部。",
+    "description": "寫出箭頭所指細胞質有空白的細胞名稱"
+  },
+  {
+    "num": "210205",
+    "path": "D/210205.png",
+    "answer": [
+      "藍：Epithelial cell",
+      "紅：Goblet cell"
+    ],
+    "explanation": "從圖僅能判斷出是腸道絨毛。絨毛表面由 H&E stain 下相對深染的 Epithelial cell和淡染的 Goblet cell 組成。",
+    "description": "箭頭指的細胞名稱（紅&藍箭頭）"
+  },
+  {
+    "num": "211204",
+    "path": "D/211204.png",
+    "answer": [
+      "Paneth cell/ Intestinal gland"
+    ],
+    "explanation": "此紅色為重要的特殊染色，被染色的部分是Paneth cell位於小腸intestinal gland 的最底部，與抗菌有關 。",
+    "description": "請寫出此細胞的名稱？以及所在位置？"
   }
 ]

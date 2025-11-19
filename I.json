@@ -78,15 +78,6 @@
     "description": "下圖是什麼構造? 其分泌方式為何?"
   },
   {
-    "num": "208204",
-    "path": "I/208204.png",
-    "answer": [
-      "Hassall’s corpuscle"
-    ],
-    "explanation": "紅色同心圓狀，存在medulla，是辨識thymus的重要特徵，由ERC type 6組成。\n【出處】08共筆Vol.11 P.30；09共筆Vol.11 P.33",
-    "description": "箭頭所指構造名稱？"
-  },
-  {
     "num": "2092012",
     "path": "I/2092012.png",
     "answer": [
@@ -205,69 +196,5 @@
     ],
     "explanation": "A為Merocrine (Eccrine) sweat gland。可分為管腔較大、細胞淡染的secretory portion與管腔較小、細胞深染的duct portion (B)。",
     "description": "請寫出A、B的構造名稱"
-  },
-  {
-    "num": "209111",
-    "path": "I/209111.png",
-    "answer": [
-      "Epithelial reticular cell type 6"
-    ],
-    "explanation": "Hassall’s corpuscle紅色同心圓狀，存在medulla，是辨識thymus的重要特徵，由ERC type 6組成。\n【出處】共筆Vol.11 P.35",
-    "description": "請寫出指針所指「構造」為「何種細胞」組成"
-  },
-  {
-    "num": "206106",
-    "path": "I/206106.png",
-    "answer": [
-      "Large intestine",
-      "Colon"
-    ],
-    "explanation": "Lumen平滑，表皮高度差不多，可知為大腸。\n【出處】07共筆Vol.16 P.30 ",
-    "description": "視野下為何種器官的組織切片？"
-  },
-  {
-    "num": "206111",
-    "path": "I/206111.png",
-    "answer": [
-      "Gastroduodenal junction"
-    ],
-    "explanation": "左邊duodenal submucosa 含有 Brunner’s gland，且有villi，所以判斷為十二指腸。右邊pylorus下方有增厚的muscularis externa，構成pyloric sphincter。\n【出處】07共筆Vol.16 P.48 ",
-    "description": "視野下為何種junction？"
-  },
-  {
-    "num": "206112",
-    "path": "I/206112.png",
-    "answer": [
-      "Myoepithelial cell"
-    ],
-    "explanation": "箭頭所指深染的部分為dense body，細胞扁平。所以應該是在acinar cell周圍的myoepithelial cell。 \n【出處】共筆Vol.14 P.8",
-    "description": "圈起處為何種細胞？"
-  },
-  {
-    "num": "206125",
-    "path": "I/206125.png",
-    "answer": [
-      "Space of Disse"
-    ],
-    "explanation": "位於sinusoid周圍與hepatocytes之間。充滿由hepatocytes 伸出的small irregular microvilli。\n【出處】07共筆Vol.17 P.19",
-    "description": "問號處為何種構造？"
-  },
-  {
-    "num": "206130",
-    "path": "I/206130.png",
-    "answer": [
-      "Duodenum"
-    ],
-    "explanation": "Submucosa有gland，所以只剩下esophagus和duodenum兩種器官。在submucosa有Brunner’s gland但villi呈現葉片狀、較短，所以是duodenum。 \n【出處】07共筆Vol.16 P.53 ",
-    "description": "視野下為何種器官？（Be specific）"
-  },
-  {
-    "num": "206131",
-    "path": "I/206131.png",
-    "answer": [
-      "Portal vein"
-    ],
-    "explanation": "圖中為portal triad，旁邊有bile duct及hepatic artery伴行。 \n【出處】07共筆Vol.17 P.50 ",
-    "description": "虛線圈起處為何種構造？"
   }
 ]
