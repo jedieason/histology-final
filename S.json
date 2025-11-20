@@ -573,5 +573,14 @@
     ],
     "explanation": "位於submucosa，是食道特有的tubuloalveolar glands。",
     "description": "箭頭所指構造為何？"
+  },
+  {
+    "num": "206203",
+    "path": "S/206203.png",
+    "answer": [
+      "A: Parotid gland B: Pancreas"
+    ],
+    "explanation": "A 可看到深染的 serous acini，沒有任何淡染的 mucous cell。\n且 septum 內有許多 adipocyte 滲入 lobule 形成 fat infiltration。\nB 可見深染淡染區，分別對應 exocrine gland 和 endocrine \ngland（islet of Langerhans）。",
+    "description": "寫出 A 及 B 所指之器官名稱（Be specific）"
   }
 ]
