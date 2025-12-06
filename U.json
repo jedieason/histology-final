@@ -97,8 +97,8 @@
     "num": "11105",
     "path": "U/11105.png",
     "answer": [
-      "Urinary space",
       "Bowman’s space",
+      "Urinary space",
       "capsular space"
     ],
     "explanation": "Bowman's capsule的parietal layer和visceral layer之間所夾的空間。",
@@ -198,7 +198,9 @@
     "num": "206207",
     "path": "U/206207.png",
     "answer": [
-      "Parietal layer of \\nBowman’s \\ncapsule"
+      "Bowman’s",
+      "Parietal layer of",
+      "capsule"
     ],
     "explanation": "為 simple squamous cell，位於外側。",
     "description": "兩箭頭所共指之構造名稱（Be specific）"
@@ -243,7 +245,8 @@
     "num": "211226",
     "path": "U/211226.png",
     "answer": [
-      "Arcuate artery (vessel); 位在renal cortex與medulla之間"
+      "Arcuate artery ; 位在renal cortex與medulla之間",
+      "vessel"
     ],
     "explanation": "分隔cortex與medulla。可見到圖的左邊為glomerulus，所以是位在cortex，右邊則是medulla。 ",
     "description": "這是什麼構造？ 如何判別？ （黃色箭頭）"

@@ -12,7 +12,8 @@
     "num": "209208",
     "path": "O/209208.png",
     "answer": [
-      "appositional stage （bell stage）",
+      "appositional stage",
+      "bell stage",
       "epithelial root sheath"
     ],
     "explanation": "為發育中牙齒，因為看起來為鐘狀，故為bell stage （如果有看出分層寫appositional stage也可）。牙根處有IEE 和 OEE形成的雙層構造叫（Hertwig’s） epithelial root sheath。\n\n【出處】09共筆 Vol.13 P.35-37",
@@ -112,8 +113,8 @@
     "num": "11106",
     "path": "O/11106.png",
     "answer": [
-      "A: Inner enamel epithelium",
-      "B: Ameloblast"
+      "A: Inner enamel epithelium B: Ameloblast",
+      "Inner enamel epithelium Ameloblast"
     ],
     "explanation": "Inner enamel epithelium 會分化成ameloblast。",
     "description": "A. 指針（箭頭）所指是什麼構造? B. 它將來會發育成什麼細胞?"
@@ -122,8 +123,8 @@
     "num": "11130",
     "path": "O/11130.png",
     "answer": [
-      "A: appositional stage",
-      "B: Stellate reticulum"
+      "A: appositional stage B: Stellate reticulum",
+      "appositional stage Stellate reticulum"
     ],
     "explanation": "牙齒由外而內的分層要記一下（好像也每次都考這個stage）。",
     "description": "下圖結構為牙齒發育的哪個階段？指針所指的構造為何？？"
@@ -132,8 +133,8 @@
     "num": "11134",
     "path": "O/11134.png",
     "answer": [
-      "A: ground section",
-      "B: granular layer of Tomes"
+      "A: ground section B: granular layer of Tomes",
+      "ground section granular layer of Tomes"
     ],
     "explanation": "A: 此為牙齒ground section，為物理研磨製成，未經脫鈣，因此可保留Dentin等高度鈣化組織。 \nB: 箭頭所指為root處，位於Dentin和Cementum交界處的顆粒狀區域，為 dentin鈣化不完全所形成，在ground section下呈黑色顆粒狀。",
     "description": "A此玻片的製備方式？B所指的構造為何？"
@@ -223,8 +224,8 @@
     "num": "209211",
     "path": "O/209211.png",
     "answer": [
-      "Ground section",
-      "Cellular cementum"
+      "Cellular cementum",
+      "Ground section"
     ],
     "explanation": "由切片的黑白顏色、光澤可知為ground section。圖中黑色呈細絲是dentin tubule，再外側是dentin，而最外側有許多黑色顆粒的是被雜質堵住的lacuna of cementocyte。該層屬於cellular cementum。\n【出處】09共筆 Vol.13 P.49",
     "description": "1. 以下樣本製備方法為何 2.綠色箭頭處為種構造"
@@ -233,8 +234,9 @@
     "num": "2092013",
     "path": "O/2092013.png",
     "answer": [
-      "Bell stage（apposition stage）",
-      "Hertwig’s epithelial root sheath"
+      "Bell stage",
+      "Hertwig’s epithelial root sheath",
+      "apposition stage"
     ],
     "explanation": "可能背題出現重複，請見第8題。",
     "description": "下列是何種發育期；紅箭頭所指構造為何？"
@@ -306,7 +308,8 @@
     "num": "206226",
     "path": "O/206226.png",
     "answer": [
-      "Circumvallate \\npapillae"
+      "Circumvallate",
+      "papillae"
     ],
     "explanation": "外型呈圓拱狀，papilla 兩側有大量 taste bud。",
     "description": "寫出黑色匡之結構名稱"
@@ -342,8 +345,8 @@
     "num": "210225",
     "path": "O/210225.png",
     "answer": [
-      "Line of Retzius",
-      "Ground bone section"
+      "Ground bone section",
+      "Line of Retzius"
     ],
     "explanation": "Line of Retzius為enamel上方較明顯的斜線。其中第一條最深的又特稱Neonatal line。而此玻片有染出Enamel，因此可以確認為Ground bone section。",
     "description": "請問上方箭頭所指為何種構造？玻片如何製作？"
@@ -397,7 +400,8 @@
     "num": "204234",
     "path": "O/204234.png",
     "answer": [
-      "A: Enamel B: Dentin"
+      "A: Enamel B: Dentin",
+      "Enamel Dentin"
     ],
     "explanation": "上面的enamel有淡棕色斜走的incremental line of Retzius，下面的dentin有Tomes’ fiber（線狀）和Interglobular spaces（黑黑一坨一坨）。\n【出處】共筆Vol.13 P.47",
     "description": "整個範圍是哪兩種構造（A=?, B=?）的交界處"
@@ -578,8 +582,8 @@
     "num": "203124",
     "path": "O/203124.png",
     "answer": [
-      "A: enamel",
-      "B: dentin"
+      "A: enamel B: dentin",
+      "enamel dentin"
     ],
     "explanation": "圖中上方A處為enamel，在交界處有黑色的enamel tufts/spindle，下方B處則為dentin，有Tomes’ fiber。\n【出處】共筆Vol.10 P.19",
     "description": "A和B分別為什麼構造？"

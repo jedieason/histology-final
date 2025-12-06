@@ -76,7 +76,8 @@
     "num": "11113",
     "path": "R/11113.png",
     "answer": [
-      "Smooth muscle (cell)"
+      "Smooth muscle",
+      "cell"
     ],
     "explanation": "Bronchus 含有不連續的hyaline cartilage chip/plate，在 mucosa 與 submucosa 之間會有一層環狀連續的平滑肌。",
     "description": "指針所所指的是什麼細胞？"
@@ -121,8 +122,8 @@
     "num": "205107",
     "path": "R/205107.png",
     "answer": [
-      "Pseudostratified ciliated columnar epithelium with goblet cell",
-      "Goblet cell"
+      "Goblet cell",
+      "Pseudostratified ciliated columnar epithelium with goblet cell"
     ],
     "explanation": "從頂部可見cilia，細胞排列看似多層，實際上每顆細胞都與basal membrane相連，為ciliated pseudostratified columnar epithelium，其之間又可見單細胞腺體goblet cell，其具有空泡狀mucinogen granule。 ",
     "description": "圖中為何種組織？箭頭指的為何種細胞？"
@@ -224,8 +225,9 @@
     "num": "208123",
     "path": "R/208123.png",
     "answer": [
-      "TEM: Goblet cell",
-      "SEM: Ciliated columnar epithelium"
+      "Ciliated columnar epithelium Goblet cell",
+      "Ciliated columnar epithelium TEM: Goblet cell",
+      "SEM: Ciliated columnar epithelium TEM: Goblet cell"
     ],
     "explanation": "帶有一條一條cilia的柱狀epithelium為ciliated columnar epithelium，中間夾雜充滿分泌小泡的goblet cell。TEM拍攝畫面為平面；SEM為立體。\n【出處】共筆Vol.10 P.11, 12",
     "description": "下兩圖分別為何種顯微鏡？何種細胞？"
@@ -261,7 +263,8 @@
     "num": "206214",
     "path": "R/206214.png",
     "answer": [
-      "Type 2 \\npneumocyte"
+      "Type 2",
+      "pneumocyte"
     ],
     "explanation": "細胞內有一顆一顆含 lamellar bodies 的 vesicle。",
     "description": "寫出箭頭所指之細胞名稱（TEM）Be specific"
@@ -297,7 +300,8 @@
     "num": "210202",
     "path": "R/210202.png",
     "answer": [
-      "Trachealis muscle (smooth muscle)"
+      "Trachealis muscle",
+      "smooth muscle"
     ],
     "explanation": "Trachealis muscle（TM）：連接氣管 C 形軟骨free end的平滑肌。由於此圖是trachea背側，故看不到軟骨，只看得到平滑肌。",
     "description": "下方由虛線圍起來的構造為何?"
@@ -316,7 +320,8 @@
     "path": "R/210220.png",
     "answer": [
       "Submucosa",
-      "Tracheal gland (mixed / submucosal gland)"
+      "Tracheal gland",
+      "mixed / submucosal gland"
     ],
     "explanation": "用C.Hyaline cartilage 以及 D. Trachealis mucle可知道為trachea 的lumen，而在其submucosa的腺體就是tracheal gland",
     "description": "請問A 位於哪個部分? 又A 為何種構造?"
@@ -507,8 +512,8 @@
     "path": "R/207117.png",
     "answer": [
       "TEM",
-      "goblet cell; SEM",
-      "ciliated columnar epithelium"
+      "ciliated columnar epithelium",
+      "goblet cell; SEM"
     ],
     "explanation": "帶有一條一條cilia的柱狀epithelium為ciliated columnar epithelium，中間夾雜充滿分泌小泡的goblet cell。TEM拍攝畫面為平面，SEM為立體。",
     "description": "下面兩圖為何種顯微鏡？何種細胞？"

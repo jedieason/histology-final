@@ -130,7 +130,7 @@
     "num": "210122",
     "path": "L/210122.png",
     "answer": [
-      "Palentine tonsil"
+      "Palatine tonsil"
     ],
     "explanation": "此為 palatine tonsil,有許多 lymph nodule,且有深、分叉成人字形的 crypt。其具有 noncornified stratified squamous epithelium。",
     "description": "圖中為何器官"
@@ -175,7 +175,8 @@
     "num": "11109",
     "path": "L/11109.png",
     "answer": [
-      "Hemicapsule (of Palatine tonsil)"
+      "Hemicapsule",
+      "of Palatine tonsil"
     ],
     "explanation": "Palatine tonsil的底部會有一層很厚但沒有完整包覆tonsil的結締組織（hemicapsule），其將 tonsil 和更內層的pharyngeal muscle （skeletal m.）分開。",
     "description": "指針所指構造是什麼？"
@@ -193,7 +194,8 @@
     "num": "11111",
     "path": "L/11111.png",
     "answer": [
-      "Splenic nodule (white pulp)"
+      "Splenic nodule",
+      "white pulp"
     ],
     "explanation": "在 spleen 中，深染、藍紫色（basophilic）圓形或不規則的區域便為 white pulp，其中央可見管狀構造，即central a.，圍繞在血管周圍的構造為PALS，若出現splenic nodule，則 central a. 會偏離中心。Splenic nodule 包含中央淡染區（Germinal centre）以及周圍深染區（Mantle zone）。",
     "description": "指針所指的構造是什麼？"
@@ -220,8 +222,8 @@
     "num": "11125",
     "path": "L/11125.png",
     "answer": [
-      "A: High endothelial venule",
-      "B: deep cortex of lymphatic nodule"
+      "A: High endothelial venule B: deep cortex of lymphatic nodule",
+      "High endothelial venule deep cortex of lymphatic nodule"
     ],
     "explanation": "此圖可見較偏向單層立方上皮型態之內皮細胞，又管道周圍遍布深染且核質比大之淋巴細胞，可推測其應為高內皮小靜脈（high endothelial venule, HEV），位於淋巴結之皮質旁區（deep cortex）。",
     "description": "A請問此位於lymph node的構造是什麼?B他在哪裡"
@@ -230,8 +232,8 @@
     "num": "11127",
     "path": "L/11127.png",
     "answer": [
-      "A: Littoral cell",
-      "B: Venous sinus"
+      "A: Littoral cell B: Venous sinus",
+      "Littoral cell Venous sinus"
     ],
     "explanation": "可以從細胞型態搭配許多空腔得知是littoral cell，進而知道其位於肝臟的venous sinus。",
     "description": "A：下列為何種細胞，B：此細胞在哪裡"
@@ -249,7 +251,7 @@
     "num": "205110",
     "path": "L/205110.png",
     "answer": [
-      "Hassall's corpuscle"
+      "Hassall’s corpuscle"
     ],
     "explanation": "Hassall’s corpuscle位於thymus的medulla區，為粉紅色的同心圓構造，是thymus的重要特徵。在Hassall’s corpuscle裡面有大大的、核淡染的細胞，即為組成它的type VI epithelioreticular cells。 ",
     "description": "虛線圓框所圈構造為？"
@@ -276,9 +278,12 @@
     "num": "208217",
     "path": "L/208217.png",
     "answer": [
-      "(A)high endothelial venule",
-      "(B)Subcapsular sinus",
-      "(C)germinal center"
+      "A",
+      "B",
+      "C",
+      "Subcapsular sinus",
+      "germinal center",
+      "high endothelial venule"
     ],
     "explanation": "(A) 此圖所見多數細胞較小，但深染且核質比大，推測為lymphocyte，故可推測此圖為淋巴器官。而箭頭所指的管狀構造由單一層的simple cuboidal endothelial cell構成，且無大量macrophage包圍，故可推測為lymph node的deep cortex中的High endothelial venule（HEV）。(B) 最外圍的粉紅色是lymph node的capsule，其下的空腔稱為subcapsular sinus。在高倍下，sinus中可以看到三種細胞：endothelial cell、reticular cell和macrophage。 (C) 此為淋巴器官，有分為white pulp（深染），red pulp（較淡染）。White pulp中又分為germinal center（中間）和mantle zone（周圍）。箭頭所指為germinal center裡偏一側看到的圓球狀構造，即為central artery（顏色較淺）。圓圈圈起處Trabeculae的c.s.，trabeculae為capsule向內延伸的板狀構造，協助支撐spleen。\n【出處】08共筆Vol.11 P.35, 38；09共筆Vol.11 P.38, 41",
     "description": "圖中A、B、C各為什麼構造？"
@@ -332,8 +337,8 @@
     "num": "209209",
     "path": "L/209209.png",
     "answer": [
-      "Venous sinus",
-      "Spleen"
+      "Spleen",
+      "Venous sinus"
     ],
     "explanation": "觀察到管腔周圍細胞有向內突起的細胞核（Littoral cell），故為venous sinus，位於spleen的red pulp。\n【出處】09共筆 Vol.12 P.6",
     "description": "圖片中藍色箭頭所指的構造為？在哪一個器官？"
@@ -487,7 +492,8 @@
     "num": "206210",
     "path": "L/206210.png",
     "answer": [
-      "White pulp of \\nspleen"
+      "White pulp of",
+      "spleen"
     ],
     "explanation": "為 basophilic，偏一側看得到 central artery。",
     "description": "寫出虛線圍繞的構造名稱（加註器官）"
@@ -496,7 +502,8 @@
     "num": "206212",
     "path": "L/206212.png",
     "answer": [
-      "Islet of \\nLangerhans"
+      "Islet of",
+      "Langerhans"
     ],
     "explanation": "旁邊可見 eosinophilic 的 exocrine gland，推知是 pancreas，而\n虛線所圈淡染為 islet of Langerhans，細胞核圓且核仁明顯。",
     "description": "寫出箭頭所指虛線內整個構造名稱"
@@ -505,7 +512,10 @@
     "num": "206223",
     "path": "L/206223.png",
     "answer": [
-      "Noncornified \\nstratified \\nsquamous \\nepithelium"
+      "Noncornified",
+      "epithelium",
+      "squamous",
+      "stratified"
     ],
     "explanation": "可見有許多 lymph nodule，且有深、分叉成人字形的 crypt，\n判斷為 palatine tonsil，其具有 noncornified stratified squamous \nepithelium。",
     "description": "寫出方框範圍內為何種上皮組織？"
@@ -514,7 +524,8 @@
     "num": "206224",
     "path": "L/206224.png",
     "answer": [
-      "A(PALS)"
+      "A",
+      "PALS"
     ],
     "explanation": "圖中 A 處為 White pulp 的 central artery 旁染色較 basophilic 的\n地方，為 PALS，主要為 T cells 聚集處。",
     "description": "請問 T 淋巴球較容易在哪一區聚集？"
@@ -550,7 +561,8 @@
     "num": "206229",
     "path": "L/206229.png",
     "answer": [
-      "Venous sinus of \\nspleen"
+      "Venous sinus of",
+      "spleen"
     ],
     "explanation": "此圖為銀染的特殊染色，黑線為 reticular fiber。可發現到\nreticular fiber 並不會進入空腔中，此為 spleen 的 red pulp\n的特徵，虛線所圍的空腔是 Venous sinus。",
     "description": "寫出虛線範圍內構造名稱，加註器官"
@@ -676,7 +688,8 @@
     "num": "204211",
     "path": "L/204211.png",
     "answer": [
-      "Lymphatic nodules （Peyer’s patches）"
+      "Lymphatic nodules",
+      "Peyer’s patches"
     ],
     "explanation": "可於mucosa中，看到很多intestinal gland。在ileum中submucosa處的lymphatic nodules特稱Peyer’s patches。\n【出處】07共筆Vol.16 P.52",
     "description": "箭頭所指構造名稱 （Be specific!） "
@@ -685,7 +698,7 @@
     "num": "204212",
     "path": "L/204212.png",
     "answer": [
-      "Epithelioreticu-lar cell Type V"
+      "epithelioreticular cell Type V"
     ],
     "explanation": "此為Hassall’s corpuscle，位於thymus的medulla區，為粉紅色的同心圓構造。在Hassall’s corpuscle旁邊箭頭指的大大淺淺的為epithelioreticular cell type VI。\n【出處】共筆Vol.11 P.46",
     "description": "箭頭所指細胞名稱 （Be specific!） "
@@ -703,7 +716,7 @@
     "num": "204214",
     "path": "L/204214.png",
     "answer": [
-      "Subcaspular sinus"
+      "subcapsular sinus"
     ],
     "explanation": "最外圍的粉紅色是lymph node的capsule，其下的空腔稱為subcapsular sinus。在高倍下，sinus中可以看到三種細胞：endothelial cell、reticular cell和macrophage。\n【出處】共筆Vol.11 P.37",
     "description": ""
@@ -784,8 +797,8 @@
     "num": "205214",
     "path": "L/205214.png",
     "answer": [
-      "Post-capillary venule /  High endothelial venule",
-      "HEV"
+      "HEV",
+      "Post-capillary venule /  High endothelial venule"
     ],
     "explanation": "此為高倍率下的lymph node，在deep cortex中lymphocyte較少的地方會發現有一管徑較小，和周圍顏色相比較淡的空腔，就是HEV。HEV管腔由單一層的simple cuboidal或simple columnar endothelial cell構成。",
     "description": "請寫出箭頭所指構造名稱？  "
@@ -983,7 +996,7 @@
     "num": "206102",
     "path": "L/206102.png",
     "answer": [
-      "Hassall's corpuscle"
+      "Hassall’s corpuscle"
     ],
     "explanation": "粉紅色圈圈，中心角質化，為thymus特有的構造。 \n【出處】共筆Vol.11 P.32 ",
     "description": "圈起處為何種構造？"
@@ -1001,8 +1014,8 @@
     "num": "206109",
     "path": "L/206109.png",
     "answer": [
-      "High endothelial venule",
-      "HEV"
+      "HEV",
+      "High endothelial venule"
     ],
     "explanation": "此為高倍率下的lymph node，在deep cortex中lymphocyte較少的地方會發現有一管徑較小，和周圍顏色相比較淡的空腔，就是HEV。HEV管腔由單一層的simple cuboidal或simple columnar endothelial cell構成。\n【出處】共筆Vol.11 P.39 ",
     "description": "圈起處為何種構造？"
@@ -1146,7 +1159,8 @@
     "num": "207125",
     "path": "L/207125.png",
     "answer": [
-      "Metamyelocyte (Band cell)"
+      "Band cell",
+      "Metamyelocyte"
     ],
     "explanation": "此為red bone marrow。白色圓球狀細胞是adipocyte。在這個視野下可以看到三種造血細胞，最大顆且有多葉狀巨核的是megakaryocyte。體型稍小，有腎形或馬蹄形核的是metamyelocyte。大小近似RBC，有深藍色圓形核，數量最多的是normoblast。箭頭所指細胞有腎形或馬蹄形核，故為metamyelocyte",
     "description": "框起來細胞名稱為何？"
@@ -1173,7 +1187,8 @@
     "num": "203111",
     "path": "L/203111.png",
     "answer": [
-      "High endothelial venule (HEV)"
+      "HEV",
+      "High endothelial venule"
     ],
     "explanation": "此為高倍率下的lymph node，在deep cortex中lymphocyte較少的地方會發現有一管徑較小，和周圍顏色相比較淡的空腔，由單層的simple cuboidal或simple columnar endothelial cell構成的管腔，就是HEV。\n【出處】共筆Vol.11 P.24",
     "description": "箭頭所指的構造為何"
@@ -1191,7 +1206,8 @@
     "num": "203113",
     "path": "L/203113.png",
     "answer": [
-      "Periarterial lymphatic sheath (PALS)"
+      "PALS",
+      "Periarterial lymphatic sheath"
     ],
     "explanation": "箭頭所指處位在lymph node 中white pulp的central artery旁，細胞染色較basophilic處，為PALS，主要為T cells聚集處。\n【出處】共筆Vol.12 P.6",
     "description": "A所指的範圍為何種構造？"

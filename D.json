@@ -12,8 +12,8 @@
     "num": "204105",
     "path": "D/204105.png",
     "answer": [
-      "Large intestine",
-      "Colon）"
+      "Colon",
+      "Large intestine"
     ],
     "explanation": "Lumen平滑，表皮高度差不多，可知為大腸。",
     "description": "畫面中器官名稱？"
@@ -161,8 +161,14 @@
     "num": "11115",
     "path": "D/11115.png",
     "answer": [
-      "A: Gallbladder (Bile Duct)",
-      "B: Simple columnar epithelium (with microvilli)"
+      "A: Bile Duct B: Simple columnar epithelium",
+      "A: Bile Duct B: with microvilli",
+      "A: Gallbladder B: Simple columnar epithelium",
+      "A: Gallbladder B: with microvilli",
+      "Bile Duct Simple columnar epithelium",
+      "Bile Duct with microvilli",
+      "Gallbladder Simple columnar epithelium",
+      "Gallbladder with microvilli"
     ],
     "explanation": "There are only three layers: mucosa, muscularis externa and adventitia (no muscularis mucosa and no submucosa). The muscularis externa is relatively thick. The epithelium of gallbladder is simple columnar. ",
     "description": "這是什麽組織？上皮層是什麽？"
@@ -207,7 +213,8 @@
     "num": "205103",
     "path": "D/205103.png",
     "answer": [
-      "Peyer’s patch （Ileum）"
+      "Ileum",
+      "Peyer’s patch"
     ],
     "explanation": "碩大而明顯的lymphatic nodule，位於ileum處則稱作Peyer’s patch，有短、非葉狀的villi，判斷是ileum。 ",
     "description": "視野下為何構造？"
@@ -270,8 +277,8 @@
     "num": "208205",
     "path": "D/208205.png",
     "answer": [
-      "ileum",
-      "Peyer's patch"
+      "Peyer's patch",
+      "ileum"
     ],
     "explanation": "管壁有villi短而非葉狀，碩大而明顯的lymphatic nodule。\n【出處】08共筆Vol.15 P.22",
     "description": "圖中的器官及圈圈中構造名稱？"
@@ -326,8 +333,8 @@
     "num": "208233",
     "path": "D/208233.png",
     "answer": [
-      "glycogen particle",
-      "Best’s carmine or PAS"
+      "Best’s carmine or PAS",
+      "glycogen particle"
     ],
     "explanation": "Best’s carmine主要針對glycogen particle染紅色。在hepatocyte中含有大量的glycogen particle，所以在此玻片中會被染出大量的紅色顆粒。（比較：Carmine染紅細胞核；Best’s carmine染紅glycogen particle）\n【出處】08共筆Vol.16 P.18",
     "description": "圖染什麼東西？用什麼染劑？"
@@ -354,8 +361,8 @@
     "num": "209205",
     "path": "D/209205.png",
     "answer": [
-      "Paneth cell",
-      "Intestine gland"
+      "Intestine gland",
+      "Paneth cell"
     ],
     "explanation": "注意此紅色為重要的特殊染色，被染色的部分是Paneth cell位於小腸intestinal gland 的最底部，與抗菌有關。\n【出處】09共筆 Vol.15 P.8",
     "description": "下圖為何細胞，在哪裡出現"
@@ -373,8 +380,8 @@
     "num": "2092019",
     "path": "D/2092019.png",
     "answer": [
-      "muscularis mucosae",
-      "duodenum"
+      "duodenum",
+      "muscularis mucosae"
     ],
     "explanation": "圖左上角有像是villi被橫切的構造，而且可以看到goblet cell，應為小腸。問題所指部分的右下角那區有像gland的構造，可以直接推測出是Brunner’s gland，這是duodenum的切片。因此問題所指的部分即為muscularis mucosae。注意muscularis mucosae因為有Brunner’s gland的duct穿過，而在duodenum呈不連續，也是本題答題重要依據。\n【出處】09共筆 Vol.15 P.13-14",
     "description": "寫出兩條虛線之間的構造？位於何處？"
@@ -410,8 +417,8 @@
     "num": "208109",
     "path": "D/208109.png",
     "answer": [
-      "Muscularis",
       "Mucosae",
+      "Muscularis",
       "duodenum"
     ],
     "explanation": "為GI tract 的Muscularis mucosae，又可見其Brunner’s gland穿過muscularis mucosae，為鑑別duodenum最重要的特色。\n【出處】共筆Vol.15 P.51",
@@ -485,8 +492,8 @@
     "num": "207210",
     "path": "D/207210.png",
     "answer": [
-      "Teniae coli",
-      "ME longitudinal layer"
+      "ME longitudinal layer",
+      "Teniae coli"
     ],
     "explanation": "大腸的Muscularis externa可以看到平滑肌聚集形成的 taeniae coli。\n【出處】07共筆Vol.16 P.30",
     "description": "寫出箭頭所指虛線內構造名稱（Be specific）"
@@ -504,8 +511,8 @@
     "num": "207213",
     "path": "D/207213.png",
     "answer": [
-      "A: villi",
-      "B: lamina propria"
+      "A: villi B: lamina propria",
+      "villi lamina propria"
     ],
     "explanation": "題目不清，可觀察到goblet cell應為小腸，B Loose CNT 為lamina propria。\n【出處】07共筆Vol.16 P.26",
     "description": "題意不清"
@@ -514,8 +521,8 @@
     "num": "207215",
     "path": "D/207215.png",
     "answer": [
-      "A: anus",
-      "B: rectum"
+      "A: anus B: rectum",
+      "anus rectum"
     ],
     "explanation": "(B)上皮為simple columnar epithelium with goblet cell，表面平整，可知為大腸。(A)上皮為non-keratinized stratified epithelium，squamous或columnar看不太清楚，但表面無villi可排除小腸，可確定為anus。\n【出處】07共筆Vol.16 P.37",
     "description": "圖片是哪兩種器官的交界處？（A = ?；B = ?）"
@@ -643,7 +650,8 @@
     "num": "204206",
     "path": "D/204206.png",
     "answer": [
-      "A=Anus B=Rectum"
+      "A: Anus B: Rectum",
+      "Anus Rectum"
     ],
     "explanation": "(B)上皮為simple columnar epithelium with goblet cell，表面平整，可知為大腸。(A)上皮為non-keratinized stratified epithelium，squamous或columnar看不太清楚，但表面無villi可排除小腸，可確定為anus。\n【出處】07共筆Vol.16 P.56",
     "description": "整個範圍是哪兩種器官交界處之切片？"
@@ -715,7 +723,8 @@
     "num": "204224",
     "path": "D/204224.png",
     "answer": [
-      "(A)Duodenum (B)Stomach"
+      "A",
+      "Duodenum Stomach"
     ],
     "explanation": "Stomach的Submucosa無Brunner’s gland、Muscularis mucosae完整；Duodenum的Submucosa有Brunner’s gland、Muscularis mucosae有不連續。\n【出處】07共筆Vol.16 P.47",
     "description": "整個範圍是哪兩種器官（A=?, B=?）交界處之切片？"
@@ -724,7 +733,8 @@
     "num": "205205",
     "path": "D/205205.png",
     "answer": [
-      "A：rectum ；B：anus"
+      "A: rectum ；B：anus",
+      "rectum ；B：anus"
     ],
     "explanation": "視野下可見由右邊的simple columnar epithelium with many goblet cells過渡到左邊的stratified squamous epithelium，可推知為rectal-anal junction 。",
     "description": "整個範圍是哪兩種器官交界處之切片？"
@@ -787,7 +797,8 @@
     "num": "211216",
     "path": "D/211216.png",
     "answer": [
-      "A （zone 1）"
+      "A",
+      "zone 1"
     ],
     "explanation": "Zone of Liver acinus；由中央短軸往兩端 central vein 分為zone1、2、3。右上縫隙構成的斜線為 portal tract，血流由portal tract 流入，會先接觸到 zone1 的血，一面接著往zone2、zone3 流，最後才擴散匯入 central vein，即左下之空腔。由 Zone1 到 Zone3，養分、腸道吸收毒物濃度降低，代謝廢物濃度升高。Zone1 含氧量最高。",
     "description": "以下哪一區氧氣最多?"
@@ -814,7 +825,8 @@
     "num": "211229",
     "path": "D/211229.png",
     "answer": [
-      "A: Anus B: Rectum"
+      "A: Anus B: Rectum",
+      "Anus Rectum"
     ],
     "explanation": "左側為simple columnar epithelium with goblet cell，有intestinal gland，為rectum；右側為non-cornified stratified squamous epithelium，下方有平滑肌組成的internal anal sphincter，為Anus。",
     "description": "範圍是哪兩種器官（A=？，B=？）交界處之切片?"
@@ -886,7 +898,8 @@
     "num": "207110",
     "path": "D/207110.png",
     "answer": [
-      "Kupffer cell; in liver (vital stain)"
+      "Kupffer cell; in liver",
+      "vital stain"
     ],
     "explanation": "此為用vital stain染色的liver。使用vital stain主要是為了染Kupffer cell。Kupffer cell是macrophage在肝臟的名稱，所以在trypan blue活體染色染成藍色。核比較大且會突出lumen，皆位於sinusoid中。",
     "description": "箭頭所指為何細胞，分布於何器官？"
@@ -923,8 +936,8 @@
     "path": "D/207118.png",
     "answer": [
       "LM",
-      "villi; SEM",
-      "villi"
+      "villi",
+      "villi; SEM"
     ],
     "explanation": "Villi為指狀突起，由小腸壁mucosa構成，表面為pseudostratified columnar epithelium，其表面又有microvilli構成之striated border。",
     "description": "下兩圖分別為何種顯微鏡拍攝，各為何構造？"
@@ -969,8 +982,8 @@
     "num": "203106",
     "path": "D/203106.png",
     "answer": [
-      "A: rectum",
-      "B: anus"
+      "A: rectum B: anus",
+      "rectum anus"
     ],
     "explanation": "圖中A處為simple columnar epithelium with goblet cells ，過渡到B處的stratified squamous epithelium，可推測為rectum到anus的交界，故A為rectum；B為Anus。\n【出處】07共筆Vol.16 P.57,58",
     "description": "判斷A與B分別為何種器官？"
@@ -997,8 +1010,8 @@
     "num": "206106",
     "path": "D/206106.png",
     "answer": [
-      "Large intestine",
-      "Colon"
+      "Colon",
+      "Large intestine"
     ],
     "explanation": "Lumen平滑，表皮高度差不多，可知為大腸。\n【出處】07共筆Vol.16 P.30 ",
     "description": "視野下為何種器官的組織切片？"
@@ -1052,8 +1065,8 @@
     "num": "11112",
     "path": "D/11112.png",
     "answer": [
-      "A: Goblet cell",
-      "B: Ciliated columnar cell"
+      "A: Goblet cell B: Ciliated columnar cell",
+      "Goblet cell Ciliated columnar cell"
     ],
     "explanation": "A: 上窄下寬，似高腳杯，細胞核位於細胞底部，細胞上方充滿很多 mucinogen granules。\nB: 長方形細胞，其表面有很多條狀構造。",
     "description": "左圖和右圖分別為何種細胞？（全對才給分）"
@@ -1091,8 +1104,8 @@
     "num": "210205",
     "path": "D/210205.png",
     "answer": [
-      "藍：Epithelial cell",
-      "紅：Goblet cell"
+      "Goblet cell Epithelial cell",
+      "紅: Goblet cell 藍: Epithelial cell"
     ],
     "explanation": "從圖僅能判斷出是腸道絨毛。絨毛表面由 H&E stain 下相對深染的 Epithelial cell和淡染的 Goblet cell 組成。",
     "description": "箭頭指的細胞名稱（紅&藍箭頭）"

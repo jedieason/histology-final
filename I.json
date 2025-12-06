@@ -3,7 +3,7 @@
     "num": "210125",
     "path": "I/210125.png",
     "answer": [
-      "Dermal pappila"
+      "dermal papilla"
     ],
     "explanation": "位於hair bulb中央凹陷的部分，屬於dermal papilla，且為dense irregular connective tissue，內部包含血管與神經。",
     "description": "請問視野下為甚麼組織？(問中間淡染部分)"
@@ -22,8 +22,8 @@
     "num": "210130",
     "path": "I/210130.png",
     "answer": [
-      "A: stratum spinosum",
-      "B: dermal papilla"
+      "A: stratum spinosum B: dermal papilla",
+      "stratum spinosum dermal papilla"
     ],
     "explanation": "(A) Stratum spinosum(S):細胞呈多角型，高倍下細胞與細胞的界線很清 楚，可見細胞間有細絲狀、刺狀的連結，為由 desmosome 組成的 intercellular bridge。顏色偏紅，因為含有許多 tonofibrils。上皮五層：Corneum, Lucidum, Granulosum, Spinosum, Basale.  (B) Dermis 與 epidermis 的接面處凹凸不平，這是為了讓兩層之間緊密結合、 不易滑動，dermis 向 epidermis 凸出以增加表面積，該凸出構造稱為 dermal papillae。",
     "description": "A)上面那個箭頭標示的是哪個層次? B)下面那個箭頭標示的是哪個構造? (註：非原圖，A紅色，B藍色。) "
@@ -41,9 +41,8 @@
     "num": "11101",
     "path": "I/11101.png",
     "answer": [
-      "A. Meissner’s corpuscle",
-      "B. Dermal papilla",
-      "C. Loose connective tissue"
+      "A: Meissner’s corpuscle B: Dermal papilla C: Loose connective tissue",
+      "Meissner’s corpuscle Dermal papilla Loose connective tissue"
     ],
     "explanation": "Meissner’s corpuscle 呈現龍捲風狀，位於dermal papilla，而dermal papilla位於真皮層中的loose connective tissue layer。",
     "description": " A. 指針所指是何種構造? B. 此構造位於何處? C. 該位置的組織類型是什麼?"
@@ -52,7 +51,8 @@
     "num": "11114",
     "path": "I/11114.png",
     "answer": [
-      "Hair matrix (cortex of hair follicle)"
+      "Hair matrix",
+      "cortex of hair follicle"
     ],
     "explanation": "Hair follicle 類似口袋狀的構造，其底部的膨大構造，即 hair bulb，包含中間淡染處為 dermal papilla，以及周圍較深染處（黑棕色）為 cortex/hair matrix。",
     "description": "請問藍色箭頭（不是指針）所指的構造為何？ (be specific)"
@@ -61,8 +61,10 @@
     "num": "11119",
     "path": "I/11119.png",
     "answer": [
-      "A: Inner (Internal) Root Sheath",
-      "B: Henle and Huxley’s layer"
+      "A: Inner  Root Sheath B: Henle and Huxley’s layer",
+      "A: Internal B: Henle and Huxley’s layer",
+      "Inner  Root Sheath Henle and Huxley’s layer",
+      "Internal Henle and Huxley’s layer"
     ],
     "explanation": "IRS可分為兩層：\n1.\t外層是 Henle’s layer 較淡染。\n2.\t內層是 Huxley’s layer 較深染、偏紅（因為含有 trichohyaline）。",
     "description": "這是什麽構造？有哪些 layer？"
@@ -71,8 +73,10 @@
     "num": "11121",
     "path": "I/11121.png",
     "answer": [
-      "A: (Secretory portion of) Eccrine sweat gland",
-      "B: Merocrine"
+      "A: Eccrine sweat gland B: Merocrine",
+      "A: Secretory portion of B: Merocrine",
+      "Eccrine sweat gland Merocrine",
+      "Secretory portion of Merocrine"
     ],
     "explanation": "圖中構造之管腔較小，應為外分泌汗腺（eccrine sweat gland），其中細胞較大、淡染且排列較不規則之部分為分泌部，深染、細胞分布規則之部分則為汗管。該汗腺分泌方式為旁泌（merocrine）。",
     "description": "下圖是什麼構造? 其分泌方式為何?"
@@ -108,8 +112,8 @@
     "num": "210203",
     "path": "I/210203.png",
     "answer": [
-      "A:Hair follicle",
-      "B:Arrector pili muscle"
+      "A: Hair follicle B: Arrector pili muscle",
+      "Hair follicle Arrector pili muscle"
     ],
     "explanation": "Hair follicle位於dermis，水平向共分六層：Medulla、Cortex、Cuticle、Internal root sheath（IRS）、External root sheath（ERS）、Glassy membrane；arrector pili muscle屬於 smooth muscle，由 autonomic nerve 調控，當緊張或寒冷時收縮，使 hair 豎起（起雞皮疙瘩）。",
     "description": "下圖的構造A、B分別為何?"
@@ -128,8 +132,10 @@
     "num": "210218",
     "path": "I/210218.png",
     "answer": [
-      "A.Sweat gland (merocrine/ eccrine)",
-      "B. Secretory portion"
+      "A: Sweat gland B: Secretory portion",
+      "A: merocrine/ eccrine B: Secretory portion",
+      "Sweat gland Secretory portion",
+      "merocrine/ eccrine Secretory portion"
     ],
     "explanation": "管腔相對apocrine sweat gland 小，secretory portion的管腔比較大而圓且淡染，duct portion的管腔較小而扁且深染",
     "description": "請問A 跟B 分別為甚麼構造?"
@@ -165,7 +171,9 @@
     "num": "211208",
     "path": "I/211208.png",
     "answer": [
-      "A: hair follicle\\nB: sebaceous gland"
+      "A: hair follicle B: sebaceous gland",
+      "hair follicle",
+      "hair follicle sebaceous gland"
     ],
     "explanation": "在hair之間可看到一叢叢亮亮白白的構造為 sebaceous gland 以及arrector pili m.，兩者通常會共同出現，靠在 hair shaft旁。Sebaceous gland：淡染，內有空泡（lipid 溶掉的空泡），只剩細胞周圍少許的細胞質，核圓小位於中央。",
     "description": "圈起的A、B構造分別為何？"
@@ -183,7 +191,9 @@
     "num": "211232",
     "path": "I/211232.png",
     "answer": [
-      "A: Meissner’s corpuscle\\nB: Dermal papilla"
+      "A: Meissner’s corpuscle B: Dermal papilla",
+      "Meissner’s corpuscle",
+      "Meissner’s corpuscle Dermal papilla"
     ],
     "explanation": "A 是一個呈螺旋狀(龍捲風)的構造，為觸覺受器，位於B (Dermal papilla)內。Pacinian corpuscle為洋蔥狀，位於dermis深層或hypodermis。",
     "description": "箭頭所指為何構造？會出現在什麼區域？"
@@ -192,7 +202,12 @@
     "num": "211235",
     "path": "I/211235.png",
     "answer": [
-      "A: (Merocrine/Eccrine) Sweat gland\\nB: Duct portion"
+      "A: Merocrine/Eccrine B: Duct portion",
+      "A: Sweat gland B: Duct portion",
+      "Merocrine/Eccrine",
+      "Merocrine/Eccrine Duct portion",
+      "Sweat gland",
+      "Sweat gland Duct portion"
     ],
     "explanation": "A為Merocrine (Eccrine) sweat gland。可分為管腔較大、細胞淡染的secretory portion與管腔較小、細胞深染的duct portion (B)。",
     "description": "請寫出A、B的構造名稱"
