@@ -1703,6 +1703,7 @@
       <div class="dropdown-menu">
           <button class="dropdown-toggle start-button">單元</button>
           <div class="dropdown-content">
+            <button class="dropdown-item" data-json="all">全部</button>
             <button class="dropdown-item" data-json="D.json">肝膽腸胰</button>
             <button class="dropdown-item" data-json="I.json">皮膚</button>
             <button class="dropdown-item" data-json="L.json">淋巴及血球生成</button>
@@ -1715,6 +1716,7 @@
       <div class="dropdown-menu">
         <button id="openDoc" class="dropdown-toggle start-button">題庫</button>
           <div class="dropdown-content">
+            <button class="dropdown-item" data-json="all">全部</button>
             <button class="dropdown-item" data-json="D.json">肝膽腸胰</button>
             <button class="dropdown-item" data-json="I.json">皮膚</button>
             <button class="dropdown-item" data-json="L.json">淋巴及血球生成</button>
@@ -2851,6 +2853,24 @@ if (googleSignInBtn) {
                 }
             });
 
+            async function loadAllJsonData() {
+                 const files = ['D.json', 'I.json', 'L.json', 'O.json', 'R.json', 'S.json', 'U.json'];
+                 let allData = [];
+                 for (const file of files) {
+                     try {
+                         const data = await new Promise((resolve, reject) => {
+                             $.getJSON(file).done(resolve).fail(reject);
+                         });
+                         if (Array.isArray(data)) {
+                             allData = allData.concat(data);
+                         }
+                     } catch (e) {
+                         console.error(`Failed to load ${file}`, e);
+                     }
+                 }
+                 return allData;
+            }
+
             function createStartHandler(jsonPath) {
                 return async function () {
                     console.log(`[createStartHandler] Starting game with ${jsonPath}`);
@@ -2888,7 +2908,11 @@ if (googleSignInBtn) {
                         if (clickedItem) {
                             window.currentUnitName = clickedItem.textContent.trim();
                         } else {
-                            window.currentUnitName = jsonPath.split('/')?.pop()?.replace(/\.json$/,'') || '單元';
+                            if (jsonPath === 'all') {
+                                window.currentUnitName = '全部';
+                            } else {
+                                window.currentUnitName = jsonPath.split('/')?.pop()?.replace(/\.json$/,'') || '單元';
+                            }
                         }
                         window.currentJsonPath = jsonPath;
                     } catch (_) {
@@ -2896,29 +2920,32 @@ if (googleSignInBtn) {
                         window.currentJsonPath = jsonPath;
                     }
 
-                    $.getJSON(jsonPath)
-                        .done(function (jsonData) {
-                            try {
-                                data = jsonData;
-                                numOfProbs = data.length;
-                                if (numOfProbs === 0) throw new Error("No data loaded from JSON.");
-                                data = parseMultiAns(data);
-                                done = new Array(numOfProbs).fill(false);
-                                resetPreloadState();
-                                initializeQuestionQueue();
-                                console.log("[createStartHandler] Data loaded. numOfProbs:", numOfProbs, "Initial done array:", JSON.parse(JSON.stringify(done)));
-                                startGame();
-                            } catch (error) {
-                                console.error("Error processing JSON data:", error);
-                                showAlertModal("Failed to load or process game data.");
-                                window.gameplayActive = false;
-                            }
-                        })
-                        .fail(function (jqXHR, textStatus, errorThrown) {
-                            console.error("Failed to load JSON:", textStatus, errorThrown);
-                            showAlertModal("無法讀取遊戲資料");
-                            window.gameplayActive = false;
-                        });
+                    try {
+                        let jsonData;
+                        if (jsonPath === 'all') {
+                            jsonData = await loadAllJsonData();
+                        } else {
+                            jsonData = await new Promise((resolve, reject) => {
+                                $.getJSON(jsonPath).done(resolve).fail(reject);
+                            });
+                        }
+
+                        data = jsonData;
+                        numOfProbs = data.length;
+                        if (numOfProbs === 0) throw new Error("No data loaded from JSON.");
+                        data = parseMultiAns(data);
+                        done = new Array(numOfProbs).fill(false);
+                        resetPreloadState();
+                        initializeQuestionQueue();
+                        console.log("[createStartHandler] Data loaded. numOfProbs:", numOfProbs, "Initial done array:", JSON.parse(JSON.stringify(done)));
+                        startGame();
+                    } catch (error) {
+                        console.error("Error processing JSON data:", error);
+                        showAlertModal("無法讀取遊戲資料");
+                        window.gameplayActive = false;
+                        document.querySelector('.start-screen').style.display = 'flex';
+                        document.querySelector('.flashcard-container').style.display = 'none';
+                    }
                 };
             }
 
@@ -3002,6 +3029,9 @@ if (googleSignInBtn) {
             }
 
             async function loadSpecificJsonData(jsonPath) {
+                if (jsonPath === 'all') {
+                    return await loadAllJsonData();
+                }
                 try {
                     const response = await $.getJSON(jsonPath);
                     return Array.isArray(response) ? response : [];
